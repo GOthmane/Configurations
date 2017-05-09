@@ -1,0 +1,1 @@
+# Config_MAVEN_JPA_CDI
